@@ -1,0 +1,9 @@
+USA , 1234 , 3 , Male , Golden Retriever , Golden , Healthy , Vaccinated , 500.0
+Canada , 5678 , 5 , Female , Labrador Retriever , Black , Healthy , Not Vaccinated , 400.0
+UK , 9876 , 2 , Female , French Bulldog , Brindle , Healthy , Vaccinated , 800.0
+Australia , 6543 , 4 , Male , German Shepherd , Brown , Not Healthy , Vaccinated , 600.0
+Germany , 2468 , 1 , Male , Poodle , White , Healthy , Vaccinated , 350.0
+France , 1357 , 6 , Female , Beagle , Tricolor , Healthy , Not Vaccinated , 300.0
+Spain , 8024 , 2 , Male , Bulldog , Fawn , Healthy , Vaccinated , 700.0
+Italy , 3498 , 3 , Female , Dachshund , Red , Healthy , Vaccinated , 250.0
+Japan , 5791 , 7 , Male , Shiba Inu , Sesame , Not Healthy , Not Vaccinated , 450.0
